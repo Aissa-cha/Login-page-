@@ -17,7 +17,6 @@ You can view the project [here](https://github.com/Aissa-cha/Login-page-) (
 
 ## 🛠️ Tech Used
 - HTML5
-- CSS3 (Flexbox, backdrop-filter)
 
 ## 📬 Feedback
 If you have suggestions or improvements, feel free to open an issue or pull request.
