@@ -1,0 +1,55 @@
+﻿body{
+background-image: url(berserk-guts-colored-5k-3840x2160-13633.jpg);
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+background-repeat: repeat;
+}
+.contener{
+backdrop-filter: blur(5px);
+width: 500px;
+height: 400px;
+margin: auto;
+text-align: center;
+border: 2px solid;
+border-radius:10px;
+transform: translateY(100px);
+}
+.Title{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size:45px;
+font-weight: bolder;
+color: white;
+text-align: center;
+margin-top :20px;
+text-shadow: 5px 5px black;}
+
+input{
+    color: white;
+background-color: rgba(255, 255, 255, 0);
+border-style: ridge;
+outline:none;
+border-radius: 10px;
+text-align: center;
+font-size: large;
+font-weight: bold;
+}
+.Box,.forget{
+color: white;
+text-align: center;
+display: flex;
+transform: translateX(200px);
+}
+.input-fieldbox:hover{
+color: rgb(255, 0, 0);}
+a{
+color: red;
+color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+    transform: translateY();
+
+}
+a:hover{
+color: white;
+}
